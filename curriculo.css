@@ -1,0 +1,22 @@
+.bold {
+    font-weight: bold;
+}
+
+h2:hover{
+    color: rgb(206, 6, 6);
+    transition: 0.3s;
+}
+
+h2{
+   transition: 0.6s;
+}
+
+
+strong:hover{
+    color: rgb(206, 6, 6);
+    transition: 0.3s;
+}
+
+strong{
+   transition: 0.6s;
+}
